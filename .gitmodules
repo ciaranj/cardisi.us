@@ -1,0 +1,3 @@
+[submodule "client/jo"]
+	path = client/jo
+	url = git://github.com/davebalmer/jo.git
